@@ -1,0 +1,89 @@
+[
+    {
+        "id": 4108,
+        "text": "This is a sample text for id 4108",
+        "tags": [
+            "politics",
+            "art",
+            "science"
+        ]
+    },
+    {
+        "id": 8560,
+        "text": "This is a sample text for id 8560",
+        "tags": [
+            "sports",
+            "art"
+        ]
+    },
+    {
+        "id": 3960,
+        "text": "This is a sample text for id 3960",
+        "tags": [
+            "sports"
+        ]
+    },
+    {
+        "id": 5064,
+        "text": "This is a sample text for id 5064",
+        "tags": [
+            "art",
+            "politics"
+        ]
+    },
+    {
+        "id": 9953,
+        "text": "This is a sample text for id 9953",
+        "tags": [
+            "sports",
+            "science",
+            "music",
+            "politics",
+            "art"
+        ]
+    },
+    {
+        "id": 6683,
+        "text": "This is a sample text for id 6683",
+        "tags": [
+            "politics",
+            "sports",
+            "art",
+            "music",
+            "science"
+        ]
+    },
+    {
+        "id": 9723,
+        "text": "This is a sample text for id 9723",
+        "tags": [
+            "art"
+        ]
+    },
+    {
+        "id": 6258,
+        "text": "This is a sample text for id 6258",
+        "tags": [
+            "art",
+            "politics",
+            "music",
+            "science",
+            "sports"
+        ]
+    },
+    {
+        "id": 5110,
+        "text": "This is a sample text for id 5110",
+        "tags": [
+            "music",
+            "politics"
+        ]
+    },
+    {
+        "id": 2071,
+        "text": "This is a sample text for id 2071",
+        "tags": [
+            "music"
+        ]
+    }
+]

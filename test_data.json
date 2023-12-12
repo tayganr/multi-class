@@ -1,0 +1,96 @@
+[
+    {
+        "id": 4108,
+        "text": "This is a sample text for id 4108",
+        "tags": [
+            "science"
+        ]
+    },
+    {
+        "id": 8560,
+        "text": "This is a sample text for id 8560",
+        "tags": [
+            "music",
+            "sports",
+            "science",
+            "art"
+        ]
+    },
+    {
+        "id": 3960,
+        "text": "This is a sample text for id 3960",
+        "tags": [
+            "science",
+            "sports",
+            "art",
+            "music"
+        ]
+    },
+    {
+        "id": 5064,
+        "text": "This is a sample text for id 5064",
+        "tags": [
+            "politics",
+            "music",
+            "art",
+            "sports",
+            "science"
+        ]
+    },
+    {
+        "id": 9953,
+        "text": "This is a sample text for id 9953",
+        "tags": [
+            "sports",
+            "science"
+        ]
+    },
+    {
+        "id": 6683,
+        "text": "This is a sample text for id 6683",
+        "tags": [
+            "politics",
+            "music",
+            "art"
+        ]
+    },
+    {
+        "id": 9723,
+        "text": "This is a sample text for id 9723",
+        "tags": [
+            "science",
+            "art",
+            "politics",
+            "sports"
+        ]
+    },
+    {
+        "id": 6258,
+        "text": "This is a sample text for id 6258",
+        "tags": [
+            "music",
+            "science",
+            "politics",
+            "art",
+            "sports"
+        ]
+    },
+    {
+        "id": 5110,
+        "text": "This is a sample text for id 5110",
+        "tags": [
+            "politics",
+            "sports"
+        ]
+    },
+    {
+        "id": 2071,
+        "text": "This is a sample text for id 2071",
+        "tags": [
+            "sports",
+            "art",
+            "politics",
+            "science"
+        ]
+    }
+]
